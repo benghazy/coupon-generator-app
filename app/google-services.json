@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "271388697122",
+    "firebase_url": "https://learning-programing.firebaseio.com",
+    "project_id": "learning-programing",
+    "storage_bucket": "learning-programing.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:271388697122:android:216ff822c9b2f63b",
+        "android_client_info": {
+          "package_name": "io.coupongenerator.coupongenerator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "271388697122-jv22ac8qb64rn7ut1pfh6qli34c40skl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.coupongenerator.coupongenerator",
+            "certificate_hash": "fae2bc8b2d7c9848059f90cecb3c822f7fc86a48"
+          }
+        },
+        {
+          "client_id": "271388697122-nsjcfh0rjs400o1065u9j6135kr371ev.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfQkwfeBgADyznopRiGI2sfHmboBcJtZ4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "271388697122-nsjcfh0rjs400o1065u9j6135kr371ev.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
